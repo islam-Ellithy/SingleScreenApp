@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cookpad</string>
+    <string name="cookpad">Cookpad</string>
+    <string name="about">Cookpad Inc. is an Internet corporation specializing in the recipe category. The company operates "Cookpad" which is Japan’s largest recipe sharing service allowing visitors to upload and search through original, user-created recipes. Wikipedia</string>
+    <string name="location">Headquarters: Minato, Tokyo, Japan</string>
+    <string name="phone">Telephone : 022038348844</string>
+</resources>
